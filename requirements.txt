@@ -1,0 +1,7 @@
+## Requirments for the project:
+Python
+Numpy 
+Pandas
+Scikit-Learn
+Matplotlib
+
